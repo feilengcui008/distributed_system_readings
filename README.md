@@ -147,9 +147,11 @@ issues for more materials are welcome.
 
 
 
-### blog posts 
+### some nice blog posts 
+
 + [Consensus Protocols: Two-Phase Commit](http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/)
 + [Consensus Protocols: Three-phase Commit](http://the-paper-trail.org/blog/consensus-protocols-three-phase-commit/)
++ [Three-Phase Commit Protocol](http://courses.cs.vt.edu/~cs5204/fall00/distributedDBMS/sreenu/3pc.html)
 + [Consensus Protocols: A Paxos Implementation](http://the-paper-trail.org/blog/consensus-protocols-a-paxos-implementation/)
 + [Consensus Protocols: Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
 + [FLP and CAP are not the same](http://the-paper-trail.org/blog/flp-and-cap-arent-the-same-thing/)
