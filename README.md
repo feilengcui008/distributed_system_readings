@@ -16,6 +16,9 @@ issues for more materials are welcome.
     + [Notes on distributed systems for young bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
     + [A Note on Distributed Systems](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=46F21231EF8ACDE94840A6C96AED31BD?doi=10.1.1.41.7628&rep=rep1&type=pdf)
     + [Time, clocks, and the ordering of events in a distributed system](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf)
+    + [Fundamentals of distributed computing: A practical tour of vector clock systems](http://www.computer.org/csdl/mags/ds/2002/02/o2001.pdf)
+    + [Virtual Time and Global States of Distributed Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.4399&rep=rep1&type=pdf)
+    + [Timestamps in Message-Passing Systems That Preserve the Partial Ordering](http://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/fidge88timestamps.pdf)
     + [Distributed snapshots: determining global states of distributed systems](http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf)
     + [Development of the domain name system](http://www.cs.cornell.edu/courses/cs615/2002fa/615/mockapetris.pdf)
 
