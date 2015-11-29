@@ -38,6 +38,7 @@ issues for more materials are welcome.
         + [The Paxos Family of Consensus Protocols](http://www.fractalscape.org/files/paxos-family.pdf)
         + [Multi-Paxos: An Implementation and Evaluation](http://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
         + [Consensus on transaction commit](http://research.microsoft.com/pubs/64636/tr-2003-96.pdf)
+        + [Consistency in Distributed Storage Systems An Overview of Models, Metrics and Measurement Approaches](http://www.aifb.kit.edu/images/0/0e/Bermbach_netys2013.pdf)
 
     + fault-tolerence/replication
 
@@ -49,10 +50,14 @@ issues for more materials are welcome.
         + [CAP Twelve Years Later](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 
 + formal methods 
-
+    
     + [The temporal logic of actions](http://research.microsoft.com/pubs/64074/lamport-actions.pdf)
+    + [A TLA+ proof system](http://www.researchgate.net/publication/220896380_A_TLA_proof_system)
+    + [The Model Checker SPIN](http://spinroot.com/spin/Doc/ieee97.pdf)
+    + [Use of Formal Methods at Amazon Web Services](http://research.microsoft.com/en-us/um/people/lamport/tla/formal-methods-amazon.pdf)
     + [MODIST: Transparent Model Checking of Unmodified Distributed Systems](https://www.usenix.org/legacy/events/nsdi09/tech/full_papers/yang/yang_html/)
     + [模型检测在分布式系统中的应用](http://www.ccf.org.cn/resources/1190201776262/2013/02/17/7.pdf)
+
 
 + others 
 
@@ -106,6 +111,7 @@ issues for more materials are welcome.
 + [Models for Parallel Computing : Review and Perspectives](http://pv.fernuni-hagen.de/docs/a47-rev3a.pdf)
 + [Actors: A Model of Concurrent Computation in Distributed Systems](https://www.cypherpunks.to/erights/history/actors/AITR-844.pdf)
 + [Communicating sequential processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
++ [Parallel Algorithms Lecture Notes](http://paloaltodata.com/images/bsp/parallel_algorithms_oxford_1997.pdf)
 
 
 #### others 
@@ -146,9 +152,9 @@ issues for more materials are welcome.
 ----
 
 
-
 ### some nice blog posts 
 
++ [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 + [Consensus Protocols: Two-Phase Commit](http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/)
 + [Consensus Protocols: Three-phase Commit](http://the-paper-trail.org/blog/consensus-protocols-three-phase-commit/)
 + [Three-Phase Commit Protocol](http://courses.cs.vt.edu/~cs5204/fall00/distributedDBMS/sreenu/3pc.html)
@@ -159,11 +165,13 @@ issues for more materials are welcome.
 + [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
 + [PAXOS/MULTI-PAXOS ALGORITHM](http://amberonrails.com/paxosmulti-paxos-algorithm/)
 + [EVENTUAL CONSISTENCY](http://amberonrails.com/eventual-consistency)
++ [The Essential Leslie Lamport](http://brooker.co.za/blog/2014/03/30/lamport-pub)
++ [The Essential Nancy Lynch](http://brooker.co.za/blog/2014/05/10/lynch-pub.html)
++ [The Essential Barbara Liskov](http://brooker.co.za/blog/2014/09/21/liskov-pub.html)
 
 
 
 ----
-
 
 
 ### Q&A 
