@@ -51,7 +51,10 @@ issues for more materials are welcome.
         + [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
         + [Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf)
         + [CAP Twelve Years Later](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
-
+    + leader election 
+        + [Leader election](https://en.wikipedia.org/wiki/Leader_election)
+        + [Bully algorithms](https://en.wikipedia.org/wiki/Bully_algorithm)
+        + [Leader Election Algorithms](http://download.springer.com/static/pdf/84/chp%253A10.1007%252F978-3-642-38123-2_4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-642-38123-2_4&token2=exp=1448987592~acl=%2Fstatic%2Fpdf%2F84%2Fchp%25253A10.1007%25252F978-3-642-38123-2_4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-642-38123-2_4*~hmac=e83fdaf934be0307c70bbccbcd7be866a8384ae4f43dfb7996b772b5651640c1)
 + formal methods 
     
     + [The temporal logic of actions](http://research.microsoft.com/pubs/64074/lamport-actions.pdf)
@@ -177,6 +180,7 @@ issues for more materials are welcome.
 + [The Essential Leslie Lamport](http://brooker.co.za/blog/2014/03/30/lamport-pub)
 + [The Essential Nancy Lynch](http://brooker.co.za/blog/2014/05/10/lynch-pub.html)
 + [The Essential Barbara Liskov](http://brooker.co.za/blog/2014/09/21/liskov-pub.html)
++ [Viewstamped Replication Revisited](http://blog.acolyer.org/2015/03/06/viewstamped-replication-revisited/)
 
 
 
