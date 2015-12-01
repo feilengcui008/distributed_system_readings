@@ -1,5 +1,5 @@
 ### distributed_systems_readings
-a list of papers, books, mooc, Q&A and other stuffs for distributed systems 
+a list of papers, conference, books, mooc, Q&A and other stuffs for distributed systems 
 
 issues for more materials are welcome.
 
@@ -125,6 +125,12 @@ issues for more materials are welcome.
 
 ----
 
+
+### conference 
++ [List of distributed computing conferences](https://en.wikipedia.org/wiki/List_of_distributed_computing_conferences)
+
+
+----
 
 
 ### books 
