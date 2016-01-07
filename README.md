@@ -118,7 +118,8 @@ issues for more materials are welcome.
 + [Actors: A Model of Concurrent Computation in Distributed Systems](https://www.cypherpunks.to/erights/history/actors/AITR-844.pdf)
 + [Communicating sequential processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 + [Parallel Algorithms Lecture Notes](http://paloaltodata.com/images/bsp/parallel_algorithms_oxford_1997.pdf)
-
++ [DTHREADS: Efficient and Deterministic Multithreading](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-063.pdf)
++ [Kendo: efficient deterministic multithreading in software](http://groups.csail.mit.edu/commit/papers/09/asplos073-olszewski.pdf)
 
 #### others 
 
