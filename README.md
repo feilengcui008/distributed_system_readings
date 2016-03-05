@@ -29,6 +29,7 @@ issues for more materials are welcome.
         + [The part-time parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
         + [The Byzantine Generals Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
         + [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+        + [Viewstamped replication: A new primary copy method to support highly-available distributed systems](http://pmg.csail.mit.edu/papers/vr.pdf)
         + [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
         + [Paxos Made Live: An Engineering Perspective](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/paxos_made_live.pdf)
         + [Paxos for System Builders](http://www.cs.jhu.edu/~jak/docs/paxos_for_system_builders.pdf)
