@@ -167,7 +167,7 @@ issues for more materials are welcome.
 
 
 ### some nice blog posts 
-
++ [UNDERSTANDING PAXOS](https://understandingpaxos.wordpress.com/)
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 + [Consensus Protocols: Two-Phase Commit](http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/)
 + [Consensus Protocols: Three-phase Commit](http://the-paper-trail.org/blog/consensus-protocols-three-phase-commit/)
