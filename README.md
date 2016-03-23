@@ -43,6 +43,8 @@ issues for more materials are welcome.
         + [Multi-Paxos: An Implementation and Evaluation](http://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
         + [Consensus on transaction commit](http://research.microsoft.com/pubs/64636/tr-2003-96.pdf)
         + [Consistency in Distributed Storage Systems An Overview of Models, Metrics and Measurement Approaches](http://www.aifb.kit.edu/images/0/0e/Bermbach_netys2013.pdf)
+        + [Base: An Acid Alternative](http://queue.acm.org/detail.cfm?id=1394128)
+        + [Eventually Consistent](http://cs.brown.edu/courses/csci2950-u/papers/p40-vogels.pdf)
 
     + fault-tolerence/replication
 
