@@ -45,7 +45,8 @@ issues for more materials are welcome.
         + [Consistency in Distributed Storage Systems An Overview of Models, Metrics and Measurement Approaches](http://www.aifb.kit.edu/images/0/0e/Bermbach_netys2013.pdf)
         + [Base: An Acid Alternative](http://queue.acm.org/detail.cfm?id=1394128)
         + [Eventually Consistent](http://cs.brown.edu/courses/csci2950-u/papers/p40-vogels.pdf)
-
+		+ [Consensus in the Cloud: Paxos Systems Demystified](http://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
+    
     + fault-tolerence/replication
 
         + [Impossibility of Distributed Consensus With One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
