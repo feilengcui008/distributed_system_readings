@@ -21,6 +21,7 @@ issues for more materials are welcome.
     + [Timestamps in Message-Passing Systems That Preserve the Partial Ordering](http://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/fidge88timestamps.pdf)
     + [Distributed snapshots: determining global states of distributed systems](http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf)
     + [Development of the domain name system](http://www.cs.cornell.edu/courses/cs615/2002fa/615/mockapetris.pdf)
+    + [Rediscovering-Distributed-System](http://steve.vinoski.net/pdf/IC-Rediscovering-Distributed-Systems.pdf)
 
 + consistency/fault-tolerence/replication 
 
