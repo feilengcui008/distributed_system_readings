@@ -150,6 +150,7 @@ issues for more materials are welcome.
 + [Distributed Systems: Principles and Paradigms](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275/ref=sr_1_5?ie=UTF8&qid=1448714582&sr=8-5&keywords=distributed+systems)
 + [Distributed Systems: An Algorithmic Approach](http://www.amazon.com/Distributed-Systems-Algorithmic-Approach-Information/dp/1466552972/ref=sr_1_9?ie=UTF8&qid=1448714582&sr=8-9&keywords=distributed+systems)
 + [Distributed Algorithms: An Intuitive Approach](http://www.amazon.com/Distributed-Algorithms-Intuitive-Wan-Fokkink/dp/0262026775/ref=sr_1_1?ie=UTF8&qid=1448714582&sr=8-1&keywords=distributed+systems)
++ [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
 
 
 
