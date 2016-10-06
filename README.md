@@ -32,12 +32,12 @@ issues for more materials are welcome.
 
 + fault-tolerence and replication/consistency and consensus
     + fault-tolerence and replication
-          + [Impossibility of Distributed Consensus With One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
-          + [Implementing fault-tolerant services using the state machine approach: a tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf)
-          + [Remus: High Availability via Asynchronous Virtual Machine Replication](http://nil.csail.mit.edu/6.824/2015/papers/remus.pdf)
-          + [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
-          + [Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf)
-          + [CAP Twelve Years Later](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+        + [Impossibility of Distributed Consensus With One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+        + [Implementing fault-tolerant services using the state machine approach: a tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf)
+        + [Remus: High Availability via Asynchronous Virtual Machine Replication](http://nil.csail.mit.edu/6.824/2015/papers/remus.pdf)
+        + [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
+        + [Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.1495&rep=rep1&type=pdf)
+        + [CAP Twelve Years Later](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
     + consistency and consensus
         + algorithms and protocols
             + [The part-time parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
