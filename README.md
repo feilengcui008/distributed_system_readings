@@ -64,7 +64,7 @@ issues for more materials are welcome.
             + [Paxos Made Live: An Engineering Perspective](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/paxos_made_live.pdf)
             + [Paxos for System Builders](http://www.cs.jhu.edu/~jak/docs/paxos_for_system_builders.pdf)
             + [PAXOS Made Transparent](http://sigops.org/sosp/sosp15/current/2015-Monterey/247-cui-online.pdf)
-		        + [Consensus in the Cloud: Paxos Systems Demystified](http://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
+            + [Consensus in the Cloud: Paxos Systems Demystified](http://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
     
 
 
