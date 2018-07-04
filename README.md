@@ -44,7 +44,7 @@ issues for more materials are welcome.
             + [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
             + [gbcast](https://en.wikipedia.org/wiki/Gbcast)
             + [Viewstamped replication: A new primary copy method to support highly-available distributed systems](http://pmg.csail.mit.edu/papers/vr.pdf)
-            + [Zab : High-performance broadcast for primary-backup systems](https://web.stanford.edu/class/cs347/reading/zab.pdf)
+            + [Zab : High-performance broadcast for primary-backup systems](http://www-users.cselabs.umn.edu/classes/Spring-2016/csci8211/Papers/Distributed%20Systems%20Zab-%20High-performance%20broadcast%20for%20primary-backup%20systems.pdf)
             + [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)
             + [The Byzantine Generals Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
             + [ZooKeeper ’ s atomic broadcast protocol : Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
