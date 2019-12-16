@@ -1,6 +1,6 @@
 ### distributed_systems_readings
 
-a list of papers, conference, books, mooc, Q&A and other stuffs for distributed systems 
+a list of papers, conference, books, mooc, Q&A and other stuffs for distributed systems
 
 issues for more materials are welcome.
 
@@ -11,7 +11,7 @@ issues for more materials are welcome.
 
 #### theories and some main topics of distributed systems, maily basic concepts/fault tolerence and replication/consistency and consensus algorithms/formal methods etc.
 
-+ basic concepts/introductions 
++ basic concepts/introductions
     + introductions
         + [Distributed Systems for Fun and Profit (strongly recommend)](http://book.mixu.net/distsys/)
         + [Notes on distributed systems for young bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -65,7 +65,7 @@ issues for more materials are welcome.
             + [Paxos for System Builders](http://www.cs.jhu.edu/~jak/docs/paxos_for_system_builders.pdf)
             + [PAXOS Made Transparent](http://sigops.org/sosp/sosp15/current/2015-Monterey/247-cui-online.pdf)
             + [Consensus in the Cloud: Paxos Systems Demystified](http://www.cse.buffalo.edu/tech-reports/2016-02.pdf)
-    
+
 
 
 + other topics
@@ -77,7 +77,7 @@ issues for more materials are welcome.
         + [Consistent hashing and random trees: distributed caching protocols for relieving hot spots on the World Wide Web](http://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/chash.pdf)
         + [Chord: A Scalable Peer-To-Peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
         + [Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems](http://www.freepastry.org/PAST/pastry.pdf)
-    + formal methods 
+    + formal methods
         + [The temporal logic of actions](http://research.microsoft.com/pubs/64074/lamport-actions.pdf)
         + [A TLA+ proof system](http://www.researchgate.net/publication/220896380_A_TLA_proof_system)
         + [The Model Checker SPIN](http://spinroot.com/spin/Doc/ieee97.pdf)
@@ -95,9 +95,9 @@ issues for more materials are welcome.
 + [Hadoop-HBase for large-scale data](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6182030&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6175418%2F6181892%2F06182030.pdf%3Farnumber%3D6182030)
 + [Dynamo](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 + [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)
-   
-    
-#### distributed computing 
+
+
+#### distributed computing
 + [Dryad : Distributed Data-Parallel Programs from Sequential Building Blocks](http://research.microsoft.com/pubs/63785/eurosys07.pdf)
 + [MapReduce : Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
 + [Pregel: a system for large-scale graph processing](https://kowshik.github.io/JPregel/pregel_paper.pdf)
@@ -129,39 +129,41 @@ issues for more materials are welcome.
 ----
 
 
-### conference 
+### conference
 + [List of distributed computing conferences](https://en.wikipedia.org/wiki/List_of_distributed_computing_conferences)
 
 
 ----
 
 
-### books 
+### books
 + [Replication: Theory and Practice](http://www.amazon.com/Replication-Practice-Lecture-Computer-Theoretical/dp/3642112935/ref=sr_1_2?ie=UTF8&qid=1448714717&sr=8-2&keywords=replication)
 + [Distributed Systems: Concepts and Design](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/ref=sr_1_3?ie=UTF8&qid=1448714582&sr=8-3&keywords=distributed+systems)
 + [Distributed Systems: Principles and Paradigms](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275/ref=sr_1_5?ie=UTF8&qid=1448714582&sr=8-5&keywords=distributed+systems)
 + [Distributed Systems: An Algorithmic Approach](http://www.amazon.com/Distributed-Systems-Algorithmic-Approach-Information/dp/1466552972/ref=sr_1_9?ie=UTF8&qid=1448714582&sr=8-9&keywords=distributed+systems)
 + [Distributed Algorithms: An Intuitive Approach](http://www.amazon.com/Distributed-Algorithms-Intuitive-Wan-Fokkink/dp/0262026775/ref=sr_1_1?ie=UTF8&qid=1448714582&sr=8-1&keywords=distributed+systems)
 + [Distributed Computing: Principles, Algorithms, and Systems](https://www.cs.uic.edu/~ajayk/DCS-Book)
-
++ [Designing data intensive applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
++ [Introduction to reliable and secure distributed programming](https://www.amazon.in/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?ie=UTF8&qid=1504847351&sr=8-1&keywords=Introduction+to+Reliable+and+Secure+Distributed+Programming)
++ [Distributed Systems 3rd](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 
 
 ----
 
 
-### mooc 
+### mooc
 + [MIT 6.824: Distributed Systems](http://nil.csail.mit.edu/6.824/2015/)
 + [CMU 15-440: Distributed Systems Syllabus](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html)
 + [MIT 6.852/18.437  Distributed Algorithms](https://stellar.mit.edu/S/course/6/fa13/6.852/materials.html)
 + [MIT 6.S897: Large-Scale Systems](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
 + [CS 525 Spring 2015 Advanced Distributed Systems](https://courses.engr.illinois.edu/cs525/sp2015/index.html)
 + [CS–745/845: Formal Specification and Verification of Systems](http://www.cs.unh.edu/~charpov/teaching-cs745_845.html)
-
++ [edx: KTHx: ID2203.2x Reliable Distributed Algorithms](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/course/)
 
 ----
 
 
-### some nice blog posts 
+### some nice blog posts
 + [UNDERSTANDING PAXOS](https://understandingpaxos.wordpress.com/)
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 + [Consensus Protocols: Two-Phase Commit](http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/)
@@ -184,5 +186,5 @@ issues for more materials are welcome.
 ----
 
 
-### Q&A 
+### Q&A
 + [What are the seminal papers in distributed systems](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
